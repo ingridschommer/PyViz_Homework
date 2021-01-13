@@ -1,1 +1,3 @@
 # PyViz_Homework
+## In the Rental Analysis file, I completed the first step to building a dashboard - to work out all of the calculations and visualizations in the analysis notebook. Once the code is worked out here, it can be copied over to a dashboard code and used with Panel to create the final layout. 
+## In the Dashboard file, I copied over the Rental Analysis  code, read in neighborhood location data, and built an interactive map with the average prices per neighborhood. 
